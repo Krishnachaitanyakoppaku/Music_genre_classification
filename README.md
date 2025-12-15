@@ -2,11 +2,11 @@
 
 A complete machine learning web application that classifies music genres using audio features extracted from the GTZAN dataset. Features automatic model training, real-time audio classification, and interactive data visualization.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://krishnachaitanyakoppaku-music-genre-classification-app-mbpq83.streamlit.app/)
 
 ## 🚀 Live Demo
 
-**[Try the Live App](https://your-app-url.streamlit.app)** - Upload audio files and get instant genre predictions!
+**[Try the Live App](https://krishnachaitanyakoppaku-music-genre-classification-app-mbpq83.streamlit.app/)** - Upload audio files and get instant genre predictions!
 
 ## ✨ Features
 
@@ -195,6 +195,10 @@ This project is available under the MIT License.
 - Kaggle for hosting the dataset
 
 ## 🚀 Deployment
+
+### 🌐 Live Application
+The application is currently deployed and accessible at:
+**[https://krishnachaitanyakoppaku-music-genre-classification-app-mbpq83.streamlit.app/](https://krishnachaitanyakoppaku-music-genre-classification-app-mbpq83.streamlit.app/)**
 
 ### Streamlit Cloud (Recommended)
 1. **Fork this repository**
